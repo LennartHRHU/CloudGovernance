@@ -22,6 +22,8 @@ Het Microsoft Cloud Adoption Framework voor Azure is opgezet met de intentie han
 
 **Organize**: Dit kernpunt focust op het organisatiemodel en de werkverdeling tijdens en na adoptie van een cloud omgeving of operating model. Aan de hand van het Framework kunnen verantwoordelijke (virtuele) teams of afdelingen voor taken gedifineerd worden.
 
+![Kernpunten Overview](/KernpuntenAdoption.png)
+
 ## Bijdrage Governance
 
 Waar dit Framework in de eerste plaats een bijdrage levert aan de algemene Governance praktijken binnen een bedrijf is standaardisatie. Als we kijken naar de essentie van Governance (de goede dingen goed doen) dan draagt het Framework hier op meerdere vlakken in bij. Uiteindelijk is het aan het bedrijf om het adoptie plan op te zetten en te doorlopen, maar het Cloud Adoption Framework kan de kaders voor dit plan bieden. Zo worden er bijvoorbeeld handvaten geboden voor het uitwerken van de nodige Policies op het gebied van Organisation, Cost Management, Security en Resource Consitency, allen belangrijke onderdelen op het gebied van Governance.
